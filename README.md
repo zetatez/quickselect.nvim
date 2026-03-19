@@ -1,0 +1,2 @@
+# quickselect.nvim
+quick select
